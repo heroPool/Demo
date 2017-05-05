@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/asynctask" />
+            <option value="$PROJECT_DIR$/demo2" />
+            <option value="$PROJECT_DIR$/leakcanary" />
+            <option value="$PROJECT_DIR$/mvp_test" />
+            <option value="$PROJECT_DIR$/navigation" />
+            <option value="$PROJECT_DIR$/okimageloader" />
+            <option value="$PROJECT_DIR$/okutilstest" />
+            <option value="$PROJECT_DIR$/space_plus" />
+            <option value="$PROJECT_DIR$/space_plus2" />
+            <option value="$PROJECT_DIR$/space_plus3" />
+            <option value="$PROJECT_DIR$/space_plus4" />
+            <option value="$PROJECT_DIR$/space_plus5_oom" />
+            <option value="$PROJECT_DIR$/toolbar" />
+            <option value="$PROJECT_DIR$/toolbar3" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

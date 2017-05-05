@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/ivThumb"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/nopic"
+        android:scaleType="fitXY"/>
+    <TextView
+        android:id="@+id/tvAppName"
+        android:layout_toRightOf="@id/ivThumb"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:text="腾讯手机管家"
+        android:textSize="18sp"
+        android:textColor="#000"/>
+    <TextView
+        android:id="@+id/tvVersion"
+        android:layout_toRightOf="@id/ivThumb"
+        android:layout_below="@id/tvAppName"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="4.6.0"
+        android:textSize="18sp"
+        android:textColor="#000"/>
+    <TextView
+        android:id="@+id/tvFileSize"
+        android:layout_toRightOf="@id/ivThumb"
+        android:layout_below="@id/tvVersion"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="413kb"
+        android:textSize="18sp"
+        android:textColor="#000"/>
+
+
+
+</RelativeLayout>

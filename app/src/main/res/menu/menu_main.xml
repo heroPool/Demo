@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/queding"
+        android:title="确定" />
+    <item
+        android:id="@+id/quxiao"
+        android:title="取消" />
+    <item
+        android:id="@+id/finsh"
+        android:title="退出" />
+</menu>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/cencle"
+        android:title="取消"
+
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/queding"
+        android:title="确定"
+
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/moren"
+        android:title="默认"
+
+        android:icon="@drawable/icon60040"
+        app:showAsAction="never" />
+</menu>
